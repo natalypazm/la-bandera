@@ -1,0 +1,19 @@
+.amarillo{
+	background: yellow;
+}
+
+.rojo{
+	background: red;
+}
+
+.amarillo,.rojo{
+	height: 80px;
+	width: 180px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+
+
+/* Escri
+be tu css aqui */
